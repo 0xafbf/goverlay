@@ -15,5 +15,8 @@
                 ],
             "libraries": ["user32.lib", "Psapi.lib"]
         }
-    ]
+    ],
+    "variables": {
+        "openssl_fips": ""
+    }
 }
